@@ -1,0 +1,12 @@
+body {
+  background-color: #e1dede;
+}
+
+.box1{
+  display: flex;
+  width: 200px;
+  height: 200px;
+  background-image: url("../images/preview.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
